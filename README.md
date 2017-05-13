@@ -1,1 +1,1 @@
-# Documentation of artificial-intelligence
+# Documentation of AI
